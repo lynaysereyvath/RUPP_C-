@@ -1,0 +1,10 @@
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\bin\Debug\show26_myproject.exe.config
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\bin\Debug\show26_myproject.exe
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\bin\Debug\show26_myproject.pdb
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\obj\Debug\show26_myproject.csproj.AssemblyReference.cache
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\obj\Debug\show26_myproject.Form1.resources
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\obj\Debug\show26_myproject.Properties.Resources.resources
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\obj\Debug\show26_myproject.csproj.GenerateResource.cache
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\obj\Debug\show26_myproject.csproj.CoreCompileInputs.cache
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\obj\Debug\show26_myproject.exe
+D:\Documents\School\RUPP\Year 3\C#\show26_myproject\obj\Debug\show26_myproject.pdb
