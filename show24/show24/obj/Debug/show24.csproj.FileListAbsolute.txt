@@ -1,0 +1,10 @@
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\bin\Debug\show24.exe.config
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\bin\Debug\show24.exe
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\bin\Debug\show24.pdb
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\obj\Debug\show24.csproj.AssemblyReference.cache
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\obj\Debug\show24.Form1.resources
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\obj\Debug\show24.Properties.Resources.resources
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\obj\Debug\show24.csproj.GenerateResource.cache
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\obj\Debug\show24.csproj.CoreCompileInputs.cache
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\obj\Debug\show24.exe
+D:\Documents\School\RUPP\Year 3\C#\show24\show24\obj\Debug\show24.pdb
