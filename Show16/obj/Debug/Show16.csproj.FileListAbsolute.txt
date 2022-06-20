@@ -1,0 +1,9 @@
+D:\Documents\School\RUPP\Year 3\C#\Show16\bin\Debug\Show16.exe.config
+D:\Documents\School\RUPP\Year 3\C#\Show16\bin\Debug\Show16.exe
+D:\Documents\School\RUPP\Year 3\C#\Show16\bin\Debug\Show16.pdb
+D:\Documents\School\RUPP\Year 3\C#\Show16\obj\Debug\Show16.csproj.AssemblyReference.cache
+D:\Documents\School\RUPP\Year 3\C#\Show16\obj\Debug\Show16.Properties.Resources.resources
+D:\Documents\School\RUPP\Year 3\C#\Show16\obj\Debug\Show16.csproj.GenerateResource.cache
+D:\Documents\School\RUPP\Year 3\C#\Show16\obj\Debug\Show16.csproj.CoreCompileInputs.cache
+D:\Documents\School\RUPP\Year 3\C#\Show16\obj\Debug\Show16.exe
+D:\Documents\School\RUPP\Year 3\C#\Show16\obj\Debug\Show16.pdb
