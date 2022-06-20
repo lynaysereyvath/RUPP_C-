@@ -1,0 +1,9 @@
+C:\Users\lynay\Desktop\semester2_midterm\bin\Debug\semester2_midterm.exe.config
+C:\Users\lynay\Desktop\semester2_midterm\bin\Debug\semester2_midterm.exe
+C:\Users\lynay\Desktop\semester2_midterm\bin\Debug\semester2_midterm.pdb
+C:\Users\lynay\Desktop\semester2_midterm\obj\Debug\semester2_midterm.csproj.AssemblyReference.cache
+C:\Users\lynay\Desktop\semester2_midterm\obj\Debug\semester2_midterm.Properties.Resources.resources
+C:\Users\lynay\Desktop\semester2_midterm\obj\Debug\semester2_midterm.csproj.GenerateResource.cache
+C:\Users\lynay\Desktop\semester2_midterm\obj\Debug\semester2_midterm.csproj.CoreCompileInputs.cache
+C:\Users\lynay\Desktop\semester2_midterm\obj\Debug\semester2_midterm.exe
+C:\Users\lynay\Desktop\semester2_midterm\obj\Debug\semester2_midterm.pdb
