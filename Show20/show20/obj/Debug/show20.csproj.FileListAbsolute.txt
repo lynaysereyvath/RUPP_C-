@@ -1,0 +1,9 @@
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\bin\Debug\show20.exe.config
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\bin\Debug\show20.exe
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\bin\Debug\show20.pdb
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\obj\Debug\show20.csprojResolveAssemblyReference.cache
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\obj\Debug\show20.Form1.resources
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\obj\Debug\show20.Properties.Resources.resources
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\obj\Debug\show20.csproj.GenerateResource.Cache
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\obj\Debug\show20.exe
+C:\Users\MK Computer\OneDrive\Desktop\DocumentC#\A1\show20\show20\obj\Debug\show20.pdb
